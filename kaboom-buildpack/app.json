@@ -1,0 +1,7 @@
+{
+  "name": "Kaboom.pw",
+    "PRIVATE_KEY": {
+      "description": "Private key for data sync and reverse SSH",
+      "required": true
+  }
+}
